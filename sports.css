@@ -1,0 +1,23 @@
+
+.head1{
+    color: chartreuse;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+.c{
+    
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+}
+.sh{
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bold;
+}
+a:link{
+    color: white;
+}
+a:visited{
+    color:white;
+}
